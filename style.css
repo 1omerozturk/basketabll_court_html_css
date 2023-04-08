@@ -1,0 +1,130 @@
+.cevre{
+    margin-top: 15px;
+    position: absolute;
+    width: 550px;
+    height: 700px;
+    background-color: coral;
+    padding: 5px 0 0 0;
+    border: 5px solid #000;
+    }
+
+.ucluk{
+    position:absolute;
+    background-color: transparent;
+    width:350px;
+    left: 20%;
+    height:175px;
+    border: 5px solid #000;
+    top: -5px;
+    border-radius:0 0  160px 160px ;
+    
+}
+.ucluk2{
+    position:absolute;
+    background-color: transparent;
+    width:350px;
+    left: 20%;
+    height:175px;
+    border: 5px solid #000;
+    top: 74.4%;
+    border-radius:160px 160px 0 0 ;
+    
+}
+
+.ortaCizgi{
+    position: absolute;
+   height: 5px;
+    width: 100%;
+    margin-top: 30%;
+    background-color: #000;
+    color: white;
+}
+.potaCizgi{
+position: relative;
+    margin-left: 50%;
+    height: 2px;
+    width: 10%;
+    background-color: #000;
+    color: white;
+}
+.potaCizgi2{
+position: relative;
+    margin-left: 50%;
+    margin-top: 94%;
+    height: 2px;
+    width: 10%;
+    background-color: #000;
+    color: white;
+}
+.kucukDaire{
+    top: -2px;
+    position: relative;
+    margin-left: 52.6%;
+     height:  20px;
+    width: 20px;
+    background-color: transparent;
+    border: 5px solid #000;
+    border-radius: 50%;   
+}
+.kucukDaire2{
+    position: absolute;
+    margin-left: 52.6%;
+     margin-top: 89.1%;
+     height:  20px;
+    width: 20px;
+    background-color: transparent;
+    border: 5px solid #000;
+    border-radius: 50%;   
+}
+
+.kare{
+     position: relative;
+    margin-left: 47%;
+    margin-top: -41px;
+    height: 136.5px;
+    width:79px;
+    background-color: transparent;
+    border: 5px solid #000;
+}
+.kare2{
+     position: absolute;
+    margin-left: 47%;
+    margin-top: 69.8%;
+    height: 135px;
+    width:79px;
+    background-color: transparent;
+    border: 5px solid #000;
+}
+
+.daire{
+    position: relative;
+    margin-left: 47%;
+    margin-top: -51px;
+    height:  80px;
+    width: 80px;
+    background-color: transparent;
+    border: 5px solid #000;
+    border-radius: 55%;
+    border-top-style: dashed;
+}
+.daire2{
+    position: absolute;
+    margin-left: 46.9%;
+    margin-top: 62.6%;
+    height:  80px;
+    width: 80px;
+    background-color: transparent;
+    border: 5px solid #000;
+    border-radius: 55%;
+    border-bottom-style: dashed;
+}
+.ortaDaire{
+     position: absolute;
+    left: 47%;
+    top: 43%;
+    height:  80px;
+    width: 80px;
+    background-color: transparent;
+    border: 5px solid #000;
+    border-radius: 55%;
+}
